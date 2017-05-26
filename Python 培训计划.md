@@ -16,6 +16,7 @@
 - 基于 [Codecademy](https://www.codecademy.com/learn) 进行互动式培训，配备讲师答疑
 - 利用 [Cyber Dojo](https://github.com/cyber-dojo/cyber-dojo) 进行互动式培训，配备讲师答疑
 - 设计几个专项项目（网站、爬虫、运维脚本、科学计算、人工智能），利用 Python 实现
+- 筛选学员，组织专门的团队进行一些外包或私活项目的实践
 
 ### 推广方法
 
