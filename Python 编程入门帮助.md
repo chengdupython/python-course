@@ -84,8 +84,9 @@ Git and Github
 ## 网络资源
 
 这个不错，有中文翻译
-
 http://pycoders-weekly-chinese.readthedocs.org/en/latest/index.html
+
+书单
 
 ## 涉及技术
 开发工具Develop tools: Python + Django + PostgreSQL (or MySql)  
